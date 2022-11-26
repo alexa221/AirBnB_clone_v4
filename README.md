@@ -155,6 +155,6 @@ No known bugs at this time.
 
 ## Authors
 
-Alexander Takele- [Github](https://github.com/alexa221) / [Linkedin](https://linkedin.com/alextakele 
+Alexander Takele- [Github](https://github.com/alexa221) / [Linkedin](www.linkedin.com/in/alextakele) 
 ## License
 Public Domain. No copy write protection. 
