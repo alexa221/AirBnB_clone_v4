@@ -155,9 +155,6 @@ No known bugs at this time.
 
 ## Authors
 
-Alexander Takele- [Github](https://github.com/alexa221) / [Linkedin](https://linkedin.com/alexander-takele  
-J
-
-Second part of Airbnb: Joann Vuong
+Alexander Takele- [Github](https://github.com/alexa221) / [Linkedin](https://linkedin.com/alextakele 
 ## License
 Public Domain. No copy write protection. 
